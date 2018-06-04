@@ -1,8 +1,8 @@
-//Bubble Sort
+//Quick Sort
 /*
 Complexity:
 	Best Case:		BigOmega(nlogn)		
-	Average Case:	BigTheta(nlogn)
+	Average Case:		BigTheta(nlogn)
 	Worst Case:		BigOh(n^2) i.e. if array is already sorted
 */
 
